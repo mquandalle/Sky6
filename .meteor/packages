@@ -9,7 +9,7 @@ cfs:filesystem
 
 less
 coffeescript
-waitingkuo:jade
+mquandalle:jade
 bootstrap3-less
 fontawesome4-less
 accounts-password
